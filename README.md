@@ -1,4 +1,4 @@
-# CEH-Style Learning Repository (Upload-Ready)
+# CEH-Style Learning Repository
 
 This repository contains educational labs, safe tools, and report templates for authorized learning only.
 When uploading to GitHub using the web UI, open this extracted folder, select ALL files and folders
